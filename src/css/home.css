@@ -1,0 +1,177 @@
+.saoma{
+    background: url(https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/bb3c06a430689ba2357dd7d1fbfa6bab.jpg?w=5120&h=240);
+    position: absolute;
+    top: 0;
+    width: 100%;
+    height: 120px;
+    background-repeat: no-repeat;
+    background-position: 50%;
+    background-size: auto 120px;
+    text-indent: -9999px;
+}
+#center{
+    position: relative;
+    z-index: 30;
+    height: 40px;
+    font-size: 12px;
+    color: #b0b0b0;
+    background: #333;
+    top: 120px;
+}
+#center a{
+    color: #b0b0b0;
+}
+header{
+    height: 260px;
+}
+.banx{
+    width: 1226px;
+    height: 40px;
+    margin: auto;
+    line-height: 40px;
+}
+.banx_left{
+    float: left;
+}
+.container{
+    margin: auto;
+    width: 1226px;
+}
+ span{
+    color: #000;
+}
+.banx_right{
+    padding: 0 20px;
+    background: #424242;
+    float: right; 
+    padding-left: 15px;
+    position: relative;
+}
+.banx_right span{
+    color: #b0b0b0;
+}
+.banx_center{
+    float: right;
+}
+.banx_center a{
+    margin: 0 3px;
+}
+#center .banx .banx_left a:hover{
+    color: #fff;
+}
+#center .banx .banx_center a:hover{
+    color: #fff;
+}
+.banx_bottom{
+    height: 100px;
+}
+#header_bottom{
+    position: relative;
+    top: 120px;
+    
+}
+.bottom_logo{
+float: left;
+}
+.lg{
+    display: block;
+    width: 55px;
+    height: 55px;
+    margin-top: 22px;
+    background: #ff6700;
+}
+.banx_bottom ul li{
+    float: left;
+   
+}
+.banx_bottom>ul{
+    padding: 12px 0 0 30px
+}
+.btm_rb>ul>li>a {
+    color: #000;
+    display: block;
+    font-size: 16px;
+    padding: 26px 10px 38px;
+}
+.btm_rb ul li a:hover{
+    color: #ff6700;
+}
+.banx_bottom .btm_rb .kong{
+    position: relative;
+    display: block;
+    float: left;
+    width: 127px;
+    padding-right: 15px;
+}
+.btm_right{
+    float: right;
+
+}
+.sous{
+    display: block;
+    width: 296px;
+    margin-top: 15px;
+    height: 50px;
+}
+.sous_right{
+    width: 52px;
+    height: 50px;
+    position: absolute;
+    top: 15px;
+    right: 353px;
+    background: #ffffff;
+    border: 1px solid #b0b0b0;
+}
+.sous_left{
+    height: 50px;
+    width: 230px;
+    border: 1px solid #b0b0b0;
+}
+.cart{
+    width: 350px;
+    background:#fff;
+    position: absolute;
+    top: 40px;
+    right: 0px;
+    color: #000;
+    display: none;
+    border: 1px solid #999999;
+    padding: 30px;
+    
+}
+.banx_right:hover .cart{
+    display: block;
+}
+.menu ul{
+    width: 234px;
+    height: 410px;
+    font-size: 14px;
+    background: rgba(105,101,101,.6);
+    position: absolute;
+    top: 100px;
+    left: -55px;
+    padding: 20px 0 ;
+}
+.menu ul li{
+    height: 42px;
+    position: relative;
+}
+.menu ul li a{
+    display: block;
+    width: 204px;
+    color: #ffffff;
+    line-height: 44px;
+    padding-left: 30px;
+    font-size: 16px;
+}
+.menu ul li a span{
+    position: absolute;
+    right: 10px;
+    top: 3px;
+    color: #fff;
+}
+.img_box ul li a img{
+    height: 460px;
+    width: 1226px;
+
+}
